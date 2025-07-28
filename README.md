@@ -1,6 +1,5 @@
-# CineSleuth
 
-CineSleuth is a Flutter-based movie discovery application that fetches and displays trending, top-rated, and upcoming movies using The Movie Database (TMDb) API. Additionally, it provides IMDb reviews for movies by scraping data using a Flask backend.
+Flutter-based movie discovery application that fetches and displays trending, top-rated, and upcoming movies using The Movie Database (TMDb) API. Additionally, it provides IMDb reviews for movies by scraping data using a Flask backend.
 
 ## Features
 
